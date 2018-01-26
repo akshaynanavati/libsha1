@@ -25,3 +25,5 @@ test.o
 config.h.in
 libsha1.pc
 libsha1-*.tar.gz
+
+*.sw[po]
